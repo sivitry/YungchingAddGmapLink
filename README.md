@@ -6,8 +6,8 @@ for chrome user, https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkk
 
 for edge user, https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
-you can click YungchingAddGmapLink.user.js and click RAW. (It will be auto installed to Tampermonkey)
+Auto Install: click https://github.com/sivitry/YungchingAddGmapLink/raw/main/YungchingAddGmapLink.user.js 
 
-or download and import YungchingAddGmapLink.user.js
+Manual Install: download and import sinyiFastChange.user.js
 
 Now enjoy to use~
