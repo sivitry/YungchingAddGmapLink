@@ -8,6 +8,6 @@ for edge user, https://microsoftedge.microsoft.com/addons/detail/tampermonkey/ii
 
 Auto Install: click https://github.com/sivitry/YungchingAddGmapLink/raw/main/YungchingAddGmapLink.user.js 
 
-Manual Install: download and import sinyiFastChange.user.js
+Manual Install: download and import YungchingAddGmapLink.user.js
 
 Now enjoy to use~
