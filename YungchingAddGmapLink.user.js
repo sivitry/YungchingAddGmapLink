@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YungchingAddGmapLink
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://buy.yungching.com.tw/*
@@ -14,7 +14,8 @@
     console.log("123")
 
     // get message include lat, lng
-    var link= document.querySelector("body > main > section.m-house-detail-block.detail-data > section.m-house-detail-list.bg-price > ul > li.right > a.lightbox-label.ga_click_trace");
+    var link= document.querySelector("body > main > section.m-house-detail-block.detail-data > section.m-house-detail-list.bg-price > ul > li.right > a");
+
     console.log(link)
 
     // filter lat, lng
